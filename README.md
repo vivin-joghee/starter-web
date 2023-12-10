@@ -23,3 +23,5 @@ Add 3
 ## Copyright
 
 copyright update
+
+## How to contribute
